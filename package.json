@@ -1,0 +1,22 @@
+{
+  "name": "notbot",
+  "version": "1.0.0",
+  "description": "Chatbot for notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notbot"
+  ],
+  "author": "mohale molieleng",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "firebase": "^5.1.0",
+    "firebase-admin": "^5.12.1",
+    "firebase-nodejs": "^1.0.1-1.1",
+    "request": "^2.87.0"
+  }
+}
